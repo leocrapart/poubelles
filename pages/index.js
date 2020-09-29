@@ -3,11 +3,37 @@ import Nav from '../components/nav'
 export default function IndexPage() {
   return (
     <div>
-      <Nav />
-      <div className="py-20">
-        <h1 className="text-5xl text-center text-accent-1">
-          Next.js + Tailwind CSS
+      <div className="">
+        <h1 className="m-8 text-3xl text-center text-accent-1 ">
+          Collecte des déchêts
         </h1>
+        <div className="">
+          <div className="p-4 bg-yellow-500">
+            <div>Jaune</div>
+            <div>Mardi 6 Octobre</div> 
+            <div>Mardi 13 Octobre</div>
+            <div>Mardi 20 Octobre</div> 
+            <div>Mardi 27 Octobre</div> 
+          </div>
+
+          <div className="p-4 bg-green-500">
+            <div>Verte</div>
+            <div>Mardi 7 Octobre</div> 
+            <div>Mardi 14 Octobre</div> 
+            <div>Mardi 21 Octobre</div> 
+            <div>Mardi 28 Octobre</div> 
+          </div>
+
+          
+          <div className="p-4 bg-gray-500">
+            <div>Ménager</div>
+            <div>Mardi 7 Octobre</div> 
+            <div>Mardi 14 Octobre</div> 
+            <div>Mardi 21 Octobre</div> 
+            <div>Mardi 28 Octobre</div> 
+          </div>
+          
+        </div>
       </div>
     </div>
   )
