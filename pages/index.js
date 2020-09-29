@@ -18,19 +18,19 @@ export default function IndexPage() {
 
           <div className="p-4 bg-green-500">
             <div>Verte</div>
-            <div>Mardi 7 Octobre</div> 
-            <div>Mardi 14 Octobre</div> 
-            <div>Mardi 21 Octobre</div> 
-            <div>Mardi 28 Octobre</div> 
+            <div>Mercredi 7 Octobre</div> 
+            <div>Mercredi 14 Octobre</div> 
+            <div>Mercredi 21 Octobre</div> 
+            <div>Mercredi 28 Octobre</div> 
           </div>
 
           
           <div className="p-4 bg-gray-500">
             <div>Ménager</div>
-            <div>Mardi 7 Octobre</div> 
-            <div>Mardi 14 Octobre</div> 
-            <div>Mardi 21 Octobre</div> 
-            <div>Mardi 28 Octobre</div> 
+            <div>Mercredi 7 Octobre</div> 
+            <div>Mercredi 14 Octobre</div> 
+            <div>Mercredi 21 Octobre</div> 
+            <div>Mercredi 28 Octobre</div> 
           </div>
           
         </div>
